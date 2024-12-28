@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_Selenium_Basics/TestSelenium02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_Selenium/TestSelenium12.java" afterDir="false" />
+    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="24th dec">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_Selenium_Option_Classes/TestSelenium14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_Selenium_Option_Classes/TestSelenium15_Add_extension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Dkrishnamohanpanda"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dkrishnamohanpanda&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dkrishnamohanpanda/LearningSeleniumATB9x.git",
-    "accountId": "22da625b-b296-4158-982b-e8a3bacff72b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dkrishnamohanpanda/LearningSeleniumATB9x.git&quot;,
+    &quot;accountId&quot;: &quot;22da625b-b296-4158-982b-e8a3bacff72b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2qe34CDpjHoVxvYegPnpb0dYLH4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,6 +61,10 @@
     "TestNG.TestSelenium08.executor": "Run",
     "TestNG.TestSelenium12.executor": "Run",
     "TestNG.TestSelenium12.test_selenium01.executor": "Run",
+    "TestNG.TestSelenium14.executor": "Run",
+    "TestNG.TestSelenium14.test_selenium01.executor": "Run",
+    "TestNG.TestSelenium15_Add_extension.executor": "Run",
+    "TestNG.TestSelenium15_Add_extension.test_selenium01.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
@@ -79,63 +75,12 @@
       <recent name="com.thetestingacademy.ex03_Selenium" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex04_Selenium_Option_Classes" />
       <recent name="com.thetestingacademy.ex03_Selenium" />
       <recent name="com.thetestingacademy.ex01_Selenium_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSelenium12">
-    <configuration name="TestSelenium03" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_Selenium.TestSelenium03" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium07.test_selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_Selenium.TestSelenium07" />
-      <option name="METHOD_NAME" value="test_selenium01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium08" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_Selenium.TestSelenium08" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestSelenium14.test_selenium01">
     <configuration name="TestSelenium12" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
@@ -153,16 +98,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium12.test_selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium14" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex03_Selenium.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex04_Selenium_Option_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex03_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex03_Selenium.TestSelenium12" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex04_Selenium_Option_Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex04_Selenium_Option_Classes.TestSelenium14" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium14.test_selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex04_Selenium_Option_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex04_Selenium_Option_Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex04_Selenium_Option_Classes.TestSelenium14" />
+      <option name="METHOD_NAME" value="test_selenium01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium15_Add_extension" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex04_Selenium_Option_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex04_Selenium_Option_Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex04_Selenium_Option_Classes.TestSelenium15_Add_extension" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium15_Add_extension.test_selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex04_Selenium_Option_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex04_Selenium_Option_Classes" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex04_Selenium_Option_Classes.TestSelenium15_Add_extension" />
       <option name="METHOD_NAME" value="test_selenium01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -173,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestSelenium14.test_selenium01" />
+        <item itemvalue="TestNG.TestSelenium14" />
+        <item itemvalue="TestNG.TestSelenium15_Add_extension" />
+        <item itemvalue="TestNG.TestSelenium15_Add_extension.test_selenium01" />
         <item itemvalue="TestNG.TestSelenium12" />
-        <item itemvalue="TestNG.TestSelenium12.test_selenium01" />
-        <item itemvalue="TestNG.TestSelenium08" />
-        <item itemvalue="TestNG.TestSelenium07.test_selenium01" />
-        <item itemvalue="TestNG.TestSelenium03" />
       </list>
     </recent_temporary>
   </component>
@@ -198,11 +195,40 @@
       <option name="project" value="LOCAL" />
       <updated>1735010490870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="24th dec">
+      <option name="closed" value="true" />
+      <created>1735210583177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735210583177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="24th dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="24th dec" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_Selenium_Option_Classes/TestSelenium14.java</url>
+          <line>13</line>
+          <properties class="com.thetestingacademy.ex04_Selenium_Option_Classes.TestSelenium14" method="test_selenium01">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_Selenium_Option_Classes/TestSelenium15_Add_extension.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
