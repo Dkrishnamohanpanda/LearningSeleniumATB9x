@@ -11,7 +11,7 @@ import java.io.File;
 
 public class TestSelenium15_Add_extension {
 
-    @Description("Open the url")
+    @Description("option class")
     @Test
     public void test_selenium01() throws Exception {
         EdgeOptions edgeOptions = new EdgeOptions();

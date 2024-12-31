@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class TestSelenium14 {
 
-    @Description("Open the url")
+    @Description("option class")
     @Test
     public void test_selenium01() throws Exception {
         EdgeOptions edgeOptions = new EdgeOptions();
