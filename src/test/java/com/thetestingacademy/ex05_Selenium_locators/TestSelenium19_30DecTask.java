@@ -14,7 +14,13 @@ import org.testng.annotations.Test;
 
 public class TestSelenium19_30DecTask {
 
-    @Description("verify that with invalid email when you try Signup for a full-featured trial on the app.vwo.com you will get a messege  The email address you entered is incorrect. ")
+    @Description(".https://katalon-demo-cura.herokuapp.com/\n" +
+            "\n" +
+            "Click on Make Appointment button\n" +
+            "\n" +
+            "Enter the Login creds and submit click\n" +
+            "\n" +
+            "Verify the current URL == https://katalon-demo-cura.herokuapp.com/#appointment ")
     @Test
     public void katalon_studio_login() throws Exception {
         ChromeOptions chromeOptions = new ChromeOptions();
