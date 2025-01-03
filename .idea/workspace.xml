@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="30 dec">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex06_Selenium_locator_Xpath/TestSelenium21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex06_Selenium_locator_Xpath/TestSelenium22_Task31st.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/package-info.java" afterDir="false" />
+    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="2nd jan">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/TestSelenium23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/TestSelenium24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/TestSelenium25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_SVGelement/TestSelenium25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +80,11 @@
     "TestNG.TestSelenium21.negative_test_vwo_login.executor": "Run",
     "TestNG.TestSelenium22_Task31st.executor": "Run",
     "TestNG.TestSelenium22_Task31st.katalon_login.executor": "Run",
+    "TestNG.TestSelenium23.executor": "Run",
+    "TestNG.TestSelenium23.test_webtable.executor": "Run",
+    "TestNG.TestSelenium24.test_webtable.executor": "Run",
+    "TestNG.TestSelenium25.test_webtable (1).executor": "Run",
+    "TestNG.TestSelenium25.test_webtable.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
@@ -89,42 +95,25 @@
       <recent name="com.thetestingacademy.ex03_Selenium" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex08_Selenium_SVGelement" />
+      <recent name="com.thetestingacademy.ex07_Selenium_Webtables" />
       <recent name="com.thetestingacademy.ex06_Selenium_locator_Xpath" />
       <recent name="com.thetestingacademy.ex05_Selenium_locators" />
       <recent name="com.thetestingacademy.ex04_Selenium_Option_Classes" />
-      <recent name="com.thetestingacademy.ex03_Selenium" />
-      <recent name="com.thetestingacademy.ex01_Selenium_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSelenium22_Task31st">
-    <configuration name="TestSelenium21" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestSelenium25.test_webtable (1)">
+    <configuration name="TestSelenium23.test_webtable" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex07_Selenium_Webtables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.TestSelenium21" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium21.katalon_login" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.TestSelenium21" />
-      <option name="METHOD_NAME" value="katalon_login" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables.TestSelenium23" />
+      <option name="METHOD_NAME" value="test_webtable" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,17 +121,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium21.negative_test_vwo_login" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium24.test_webtable" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex07_Selenium_Webtables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.TestSelenium21" />
-      <option name="METHOD_NAME" value="negative_test_vwo_login" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables.TestSelenium24" />
+      <option name="METHOD_NAME" value="test_webtable" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -150,16 +139,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium22_Task31st" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium25" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex08_Selenium_SVGelement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.TestSelenium22_Task31st" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex08_Selenium_SVGelement" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex08_Selenium_SVGelement.TestSelenium25" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -167,17 +156,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium22_Task31st.katalon_login" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium25.test_webtable (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex08_Selenium_SVGelement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex06_Selenium_locator_Xpath.TestSelenium22_Task31st" />
-      <option name="METHOD_NAME" value="katalon_login" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex08_Selenium_SVGelement" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex08_Selenium_SVGelement.TestSelenium25" />
+      <option name="METHOD_NAME" value="test_webtable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium25.test_webtable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex07_Selenium_Webtables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables.TestSelenium25" />
+      <option name="METHOD_NAME" value="test_webtable" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -187,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSelenium22_Task31st" />
-        <item itemvalue="TestNG.TestSelenium22_Task31st.katalon_login" />
-        <item itemvalue="TestNG.TestSelenium21.katalon_login" />
-        <item itemvalue="TestNG.TestSelenium21" />
-        <item itemvalue="TestNG.TestSelenium21.negative_test_vwo_login" />
+        <item itemvalue="TestNG.TestSelenium25.test_webtable (1)" />
+        <item itemvalue="TestNG.TestSelenium25" />
+        <item itemvalue="TestNG.TestSelenium25.test_webtable" />
+        <item itemvalue="TestNG.TestSelenium24.test_webtable" />
+        <item itemvalue="TestNG.TestSelenium23.test_webtable" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735619651803</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2nd jan">
+      <option name="closed" value="true" />
+      <created>1735796998000</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735796998000</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,7 +267,8 @@
     <MESSAGE value="24th dec" />
     <MESSAGE value="28th dec" />
     <MESSAGE value="30 dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 dec" />
+    <MESSAGE value="2nd jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
