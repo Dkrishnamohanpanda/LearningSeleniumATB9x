@@ -4,12 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="2nd jan">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/TestSelenium23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/TestSelenium24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/TestSelenium25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_SVGelement/TestSelenium25.java" afterDir="false" />
+    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="3rd jan">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/WebTables_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_SVGelement/SVG_Flipkart_proj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium28_Explicit_Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium29_Fluent_Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium30_InputBox_CheckBox_RadioBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium31_ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium32_Explicit_Wait_EX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium33_explicitFluent_Wait_EX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium34_select_static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium35_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex10_Selenium_ShadowDom/TestSelenium36_Shadow_Dom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex10_Selenium_ShadowDom/TestSelenium37_JS_Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex10_Selenium_ShadowDom/TestSelenium38_JS_Executor_demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex11_Action_Window_iframe/TestSelenium39_Action_p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex11_Action_Window_iframe/TestSelenium40_Action_p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex11_Action_Window_iframe/TestSelenium41_Action_p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex11_Action_Window_iframe/TestSelenium42_window_p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex11_Action_Window_iframe/TestSelenium43_Action_iframe_p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex11_Action_Window_iframe/TestSelenium44_Action_iframe_p6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_Selenium_Option_Classes/AddBlocker.crx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/TestSelenium24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_Webtables/TestSelenium24_dynamic_WEBTABLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_SVGelement/TestSelenium25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_SVGelement/TestSelenium26.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,10 +72,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestSelenium30_InputBox_CheckBox_RadioBox.executor": "Run",
+    "Application.TestSelenium35_Alerts.executor": "Run",
+    "Application.TestSelenium_InputBox_CheckBox_RadioBox.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/dkris/IdeaProjects/LearningSeleniumATB9x/testng.xml.executor": "Run",
+    "TestNG.SVG_Flipkart_proj.executor": "Run",
+    "TestNG.SVG_Flipkart_proj.flipkart_Search.executor": "Run",
     "TestNG.TestSelenium01.executor": "Run",
     "TestNG.TestSelenium01.test_selenium01.executor": "Run",
     "TestNG.TestSelenium02.executor": "Run",
@@ -83,8 +108,25 @@
     "TestNG.TestSelenium23.executor": "Run",
     "TestNG.TestSelenium23.test_webtable.executor": "Run",
     "TestNG.TestSelenium24.test_webtable.executor": "Run",
+    "TestNG.TestSelenium25.executor": "Run",
     "TestNG.TestSelenium25.test_webtable (1).executor": "Run",
     "TestNG.TestSelenium25.test_webtable.executor": "Run",
+    "TestNG.TestSelenium28.testVwoLoginNegative.executor": "Run",
+    "TestNG.TestSelenium28_Explicit_Wait.testVwoLoginNegative.executor": "Run",
+    "TestNG.TestSelenium29_Fluent_Wait.testVwoLoginNegative.executor": "Run",
+    "TestNG.TestSelenium31_ImplicitWait.executor": "Run",
+    "TestNG.TestSelenium31_ImplicitWait.negative_test_vwo_login.executor": "Run",
+    "TestNG.TestSelenium32_Explicit_Wait_EX.testVwoLoginNegative.executor": "Run",
+    "TestNG.TestSelenium37_JS_Executor.test_javaScriptExecutor.executor": "Run",
+    "TestNG.TestSelenium38_JS_Executor_demo2.test_javaScriptExecutor.executor": "Run",
+    "TestNG.TestSelenium39_Action_p1.executor": "Run",
+    "TestNG.TestSelenium40_Action_p2.test_actions.executor": "Run",
+    "TestNG.TestSelenium41_Action_p3.executor": "Debug",
+    "TestNG.TestSelenium41_Action_p3.test_actions.executor": "Run",
+    "TestNG.TestSelenium42_window_p4.test_window.executor": "Run",
+    "TestNG.TestSelenium43_Action_iframe_p5.test_Heatmap_ClickmapButton.executor": "Run",
+    "TestNG.TestSelenium44_Action_iframe_p6.test_Heatmap_ClickmapButton.executor": "Run",
+    "TestNG.WebTables_Practice.test_webtable.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
@@ -95,60 +137,24 @@
       <recent name="com.thetestingacademy.ex03_Selenium" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex11_Action_Window_iframe" />
+      <recent name="com.thetestingacademy.ex10_Selenium_ShadowDom" />
+      <recent name="com.thetestingacademy.ex09_Selenium_Wait" />
       <recent name="com.thetestingacademy.ex08_Selenium_SVGelement" />
       <recent name="com.thetestingacademy.ex07_Selenium_Webtables" />
-      <recent name="com.thetestingacademy.ex06_Selenium_locator_Xpath" />
-      <recent name="com.thetestingacademy.ex05_Selenium_locators" />
-      <recent name="com.thetestingacademy.ex04_Selenium_Option_Classes" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSelenium25.test_webtable (1)">
-    <configuration name="TestSelenium23.test_webtable" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestSelenium44_Action_iframe_p6.test_Heatmap_ClickmapButton">
+    <configuration name="TestSelenium41_Action_p3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex07_Selenium_Webtables.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex11_Action_Window_iframe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables.TestSelenium23" />
-      <option name="METHOD_NAME" value="test_webtable" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium24.test_webtable" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex07_Selenium_Webtables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables.TestSelenium24" />
-      <option name="METHOD_NAME" value="test_webtable" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium25" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex08_Selenium_SVGelement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex08_Selenium_SVGelement" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex08_Selenium_SVGelement.TestSelenium25" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe.TestSelenium41_Action_p3" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -156,17 +162,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium25.test_webtable (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium41_Action_p3.test_actions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex08_Selenium_SVGelement.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex11_Action_Window_iframe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex08_Selenium_SVGelement" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex08_Selenium_SVGelement.TestSelenium25" />
-      <option name="METHOD_NAME" value="test_webtable" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe.TestSelenium41_Action_p3" />
+      <option name="METHOD_NAME" value="test_actions" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -174,17 +180,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium25.test_webtable" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium42_window_p4.test_window" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex07_Selenium_Webtables.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex11_Action_Window_iframe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex07_Selenium_Webtables.TestSelenium25" />
-      <option name="METHOD_NAME" value="test_webtable" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe.TestSelenium42_window_p4" />
+      <option name="METHOD_NAME" value="test_window" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium43_Action_iframe_p5.test_Heatmap_ClickmapButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex11_Action_Window_iframe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe.TestSelenium43_Action_iframe_p5" />
+      <option name="METHOD_NAME" value="test_Heatmap_ClickmapButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium44_Action_iframe_p6.test_Heatmap_ClickmapButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex11_Action_Window_iframe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex11_Action_Window_iframe.TestSelenium44_Action_iframe_p6" />
+      <option name="METHOD_NAME" value="test_Heatmap_ClickmapButton" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -194,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSelenium25.test_webtable (1)" />
-        <item itemvalue="TestNG.TestSelenium25" />
-        <item itemvalue="TestNG.TestSelenium25.test_webtable" />
-        <item itemvalue="TestNG.TestSelenium24.test_webtable" />
-        <item itemvalue="TestNG.TestSelenium23.test_webtable" />
+        <item itemvalue="TestNG.TestSelenium44_Action_iframe_p6.test_Heatmap_ClickmapButton" />
+        <item itemvalue="TestNG.TestSelenium43_Action_iframe_p5.test_Heatmap_ClickmapButton" />
+        <item itemvalue="TestNG.TestSelenium42_window_p4.test_window" />
+        <item itemvalue="TestNG.TestSelenium41_Action_p3.test_actions" />
+        <item itemvalue="TestNG.TestSelenium41_Action_p3" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735796998000</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3rd jan">
+      <option name="closed" value="true" />
+      <created>1735905930363</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735905930363</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -268,7 +318,8 @@
     <MESSAGE value="28th dec" />
     <MESSAGE value="30 dec" />
     <MESSAGE value="2nd jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd jan" />
+    <MESSAGE value="3rd jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -291,6 +342,24 @@
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_Wait/TestSelenium30_InputBox_CheckBox_RadioBox.java</url>
+          <line>6</line>
+          <properties class="com.thetestingacademy.ex09_Selenium_Wait.TestSelenium30_InputBox_CheckBox_RadioBox" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex10_Selenium_ShadowDom/TestSelenium38_JS_Executor_demo2.java</url>
+          <line>26</line>
+          <properties class="com.thetestingacademy.ex10_Selenium_ShadowDom.TestSelenium38_JS_Executor_demo2" method="test_javaScriptExecutor">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_Selenium_Option_Classes/TestSelenium15_Add_extension.java</url>
           <line>11</line>
@@ -300,6 +369,16 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_Selenium_locators/TestSelenium19_30DecTask.java</url>
           <line>14</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_SVGelement/SVG_Flipkart_proj.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex11_Action_Window_iframe/TestSelenium43_Action_iframe_p5.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
