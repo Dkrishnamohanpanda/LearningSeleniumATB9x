@@ -25,7 +25,7 @@ public class TestSelenium58_RelativeLocator_AQI {
     }
     @Description("Verify RealativeLocator ")
     @Test
-    public void test_uploadFile() throws Exception {
+    public void test_relativeLocator() throws Exception {
 
         WebDriver driver = new EdgeDriver();
         driver.get("https://www.aqi.in/real-time-most-polluted-city-ranking");
