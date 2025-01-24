@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="22 jan">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex13_Action_Advance/TestSelenium60_Actions_Scroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex13_Action_Advance/TestSelenium61_Actions_Upload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex13_Action_Advance/TestSelenium62_Drag_And_Drop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex13_Action_Advance/upload.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex14_JsExecutor/TestSelenium63_JsExecutor.java" afterDir="false" />
+    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="23 jan">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium64_NoSuchElementException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium65_StaleElementReferenceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium66_StaleElement_ActualFix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium67_TimeoutException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex12_Action_Window_iframe_practice/TestSelenium58_RelativeLocator_AQI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex12_Action_Window_iframe_practice/TestSelenium58_RelativeLocator_AQI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex12_Action_Window_iframe_practice/TestSelenium59_RelativeLocator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex12_Action_Window_iframe_practice/TestSelenium59_RelativeLocator3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +124,10 @@
     "TestNG.TestSelenium61_Actions_Upload.test_scroll.executor": "Run",
     "TestNG.TestSelenium62_Drag_And_Drop.test_uploadFile.executor": "Run",
     "TestNG.TestSelenium63_JsExecutor.test_JsExecutor.executor": "Run",
+    "TestNG.TestSelenium64_NoSuchElementException.test_JsExecutor.executor": "Run",
+    "TestNG.TestSelenium65_StaleElementReferenceException.test_staleElementException.executor": "Run",
+    "TestNG.TestSelenium66_StaleElement_ActualFix.test_staleElementException.executor": "Run",
+    "TestNG.TestSelenium67_TimeoutException.test_staleElementException.executor": "Run",
     "TestNG.WebTables_Practice.test_webtable.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -138,86 +139,14 @@
       <recent name="com.thetestingacademy.ex03_Selenium" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex15_SeleniumException" />
       <recent name="com.thetestingacademy.ex14_JsExecutor" />
       <recent name="com.thetestingacademy.ex13_Action_Advance" />
       <recent name="com.thetestingacademy.ex12_Action_Window_iframe_practice" />
       <recent name="com.thetestingacademy.ex11_Action_Window_iframe" />
-      <recent name="com.thetestingacademy.ex10_Selenium_ShadowDom" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSelenium63_JsExecutor.test_JsExecutor">
-    <configuration name="TestSelenium57_RelativeLocator.test_uploadFile" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex12_Action_Window_iframe_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex12_Action_Window_iframe_practice" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex12_Action_Window_iframe_practice.TestSelenium57_RelativeLocator" />
-      <option name="METHOD_NAME" value="test_uploadFile" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium58_RelativeLocator_AQI.test_uploadFile" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex12_Action_Window_iframe_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex12_Action_Window_iframe_practice" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex12_Action_Window_iframe_practice.TestSelenium58_RelativeLocator_AQI" />
-      <option name="METHOD_NAME" value="test_uploadFile" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium61_Actions_Upload.test_scroll" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex13_Action_Advance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex13_Action_Advance" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex13_Action_Advance.TestSelenium61_Actions_Upload" />
-      <option name="METHOD_NAME" value="test_scroll" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium62_Drag_And_Drop.test_uploadFile" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex13_Action_Advance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex13_Action_Advance" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex13_Action_Advance.TestSelenium62_Drag_And_Drop" />
-      <option name="METHOD_NAME" value="test_uploadFile" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestSelenium67_TimeoutException.test_staleElementException">
     <configuration name="TestSelenium63_JsExecutor.test_JsExecutor" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
@@ -236,13 +165,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSelenium64_NoSuchElementException.test_JsExecutor" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex15_SeleniumException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex15_SeleniumException" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex15_SeleniumException.TestSelenium64_NoSuchElementException" />
+      <option name="METHOD_NAME" value="test_JsExecutor" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium65_StaleElementReferenceException.test_staleElementException" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex15_SeleniumException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex15_SeleniumException" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex15_SeleniumException.TestSelenium65_StaleElementReferenceException" />
+      <option name="METHOD_NAME" value="test_staleElementException" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium66_StaleElement_ActualFix.test_staleElementException" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex15_SeleniumException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex15_SeleniumException" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex15_SeleniumException.TestSelenium66_StaleElement_ActualFix" />
+      <option name="METHOD_NAME" value="test_staleElementException" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium67_TimeoutException.test_staleElementException" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex15_SeleniumException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex15_SeleniumException" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex15_SeleniumException.TestSelenium67_TimeoutException" />
+      <option name="METHOD_NAME" value="test_staleElementException" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestSelenium67_TimeoutException.test_staleElementException" />
+        <item itemvalue="TestNG.TestSelenium66_StaleElement_ActualFix.test_staleElementException" />
+        <item itemvalue="TestNG.TestSelenium65_StaleElementReferenceException.test_staleElementException" />
+        <item itemvalue="TestNG.TestSelenium64_NoSuchElementException.test_JsExecutor" />
         <item itemvalue="TestNG.TestSelenium63_JsExecutor.test_JsExecutor" />
-        <item itemvalue="TestNG.TestSelenium62_Drag_And_Drop.test_uploadFile" />
-        <item itemvalue="TestNG.TestSelenium61_Actions_Upload.test_scroll" />
-        <item itemvalue="TestNG.TestSelenium58_RelativeLocator_AQI.test_uploadFile" />
-        <item itemvalue="TestNG.TestSelenium57_RelativeLocator.test_uploadFile" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737514980879</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="23 jan">
+      <option name="closed" value="true" />
+      <created>1737598482656</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737598482656</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -348,7 +357,8 @@
     <MESSAGE value="19 jan" />
     <MESSAGE value="21 jan" />
     <MESSAGE value="22 jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="22 jan" />
+    <MESSAGE value="23 jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="23 jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,6 +425,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium64_NoSuchElementException.java</url>
+          <line>20</line>
+          <properties class="com.thetestingacademy.ex15_SeleniumException.TestSelenium64_NoSuchElementException" method="test_JsExecutor">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_Selenium_Option_Classes/TestSelenium15_Add_extension.java</url>
