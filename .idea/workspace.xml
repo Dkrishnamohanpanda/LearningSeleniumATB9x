@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="23 jan">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium64_NoSuchElementException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium65_StaleElementReferenceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium66_StaleElement_ActualFix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex15_SeleniumException/TestSelenium67_TimeoutException.java" afterDir="false" />
+    <list default="true" id="ba2a75c1-6f86-4219-9a1c-92d5125fe2a1" name="Changes" comment="24 jan">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex16_DatadrivenTesting/DataDrivenExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex16_DatadrivenTesting/TestDataDrivenTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex16_DatadrivenTesting/TestDataDrivenTesting_parallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex16_DatadrivenTesting/UtilExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestDataForDDT.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +61,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/dkris/IdeaProjects/LearningSeleniumATB9x/testng.xml.executor": "Run",
+    "TestNG.DataDrivenExcel.executor": "Run",
     "TestNG.SVG_Flipkart_proj.executor": "Run",
     "TestNG.SVG_Flipkart_proj.flipkart_Search.executor": "Run",
+    "TestNG.TestDataDrivenTesting.executor": "Run",
+    "TestNG.TestDataDrivenTesting_parallel.executor": "Run",
     "TestNG.TestSelenium01.executor": "Run",
     "TestNG.TestSelenium01.test_selenium01.executor": "Run",
     "TestNG.TestSelenium02.executor": "Run",
@@ -131,6 +136,7 @@
     "TestNG.WebTables_Practice.test_webtable.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dkris/IdeaProjects/LearningSeleniumATB9x/src/test/java/com/thetestingacademy/ex16_DatadrivenTesting",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
@@ -138,63 +144,66 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.thetestingacademy.ex03_Selenium" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dkris\IdeaProjects\LearningSeleniumATB9x\src\test\java\com\thetestingacademy\ex16_DatadrivenTesting" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dkris\IdeaProjects\LearningSeleniumATB9x\src\test\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex16_DatadrivenTesting" />
       <recent name="com.thetestingacademy.ex15_SeleniumException" />
       <recent name="com.thetestingacademy.ex14_JsExecutor" />
       <recent name="com.thetestingacademy.ex13_Action_Advance" />
       <recent name="com.thetestingacademy.ex12_Action_Window_iframe_practice" />
-      <recent name="com.thetestingacademy.ex11_Action_Window_iframe" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSelenium67_TimeoutException.test_staleElementException">
-    <configuration name="TestSelenium63_JsExecutor.test_JsExecutor" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DataDrivenExcel">
+    <configuration name="DataDrivenExcel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex14_JsExecutor.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex16_DatadrivenTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex14_JsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex14_JsExecutor.TestSelenium63_JsExecutor" />
-      <option name="METHOD_NAME" value="test_JsExecutor" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex16_DatadrivenTesting" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex16_DatadrivenTesting.DataDrivenExcel" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium64_NoSuchElementException.test_JsExecutor" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDataDrivenTesting" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex15_SeleniumException.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex16_DatadrivenTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex15_SeleniumException" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex15_SeleniumException.TestSelenium64_NoSuchElementException" />
-      <option name="METHOD_NAME" value="test_JsExecutor" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex16_DatadrivenTesting" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex16_DatadrivenTesting.TestDataDrivenTesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium65_StaleElementReferenceException.test_staleElementException" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDataDrivenTesting_parallel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex15_SeleniumException.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex16_DatadrivenTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex15_SeleniumException" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex15_SeleniumException.TestSelenium65_StaleElementReferenceException" />
-      <option name="METHOD_NAME" value="test_staleElementException" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex16_DatadrivenTesting" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex16_DatadrivenTesting.TestDataDrivenTesting_parallel" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -239,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DataDrivenExcel" />
+        <item itemvalue="TestNG.TestDataDrivenTesting_parallel" />
+        <item itemvalue="TestNG.TestDataDrivenTesting" />
         <item itemvalue="TestNG.TestSelenium67_TimeoutException.test_staleElementException" />
         <item itemvalue="TestNG.TestSelenium66_StaleElement_ActualFix.test_staleElementException" />
-        <item itemvalue="TestNG.TestSelenium65_StaleElementReferenceException.test_staleElementException" />
-        <item itemvalue="TestNG.TestSelenium64_NoSuchElementException.test_JsExecutor" />
-        <item itemvalue="TestNG.TestSelenium63_JsExecutor.test_JsExecutor" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737598482656</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="24 jan">
+      <option name="closed" value="true" />
+      <created>1737689828558</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737689828558</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -358,7 +375,8 @@
     <MESSAGE value="21 jan" />
     <MESSAGE value="22 jan" />
     <MESSAGE value="23 jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="23 jan" />
+    <MESSAGE value="24 jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="24 jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -454,6 +472,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex11_Action_Window_iframe/TestSelenium43_Action_iframe_p5.java</url>
           <line>28</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex16_DatadrivenTesting/DataDrivenExcel.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
